@@ -1,7 +1,5 @@
 ### Hi there I am Sayanta CHowdhury and Here is What I'm Working On! 👋
 
-<!--
-**sayanta28/sayanta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a mad programmer.
 -->
+
+<!--
+**sayanta28/sayanta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
