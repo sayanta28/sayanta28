@@ -1,4 +1,4 @@
-[![image](https://github.com/sayanta28/sayanta28/blob/master/Hello.jpg)](https://github.com/sayanta28?tab=repositories)
+[![image](https://github.com/sayanta28/sayanta28/blob/master/Hello2.jpg)](https://github.com/sayanta28?tab=repositories)
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning - JavaScript
