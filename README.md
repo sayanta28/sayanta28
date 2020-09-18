@@ -1,4 +1,11 @@
-[![image](https://github.com/sayanta28/sayanta28/blob/master/Hello.jpg)](https://github.com/sayanta28?tab=repositories)
+<p align="center">
+  <a href="https://github.com/sayanta28?tab=repositories">
+  <img src = "https://github.com/sayanta28/sayanta28/blob/master/Hello.jpg" >
+  </a> <br>
+  <img src="https://gpvc.arturio.dev/sayanta28" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=sayanta28&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/sayanta28?label=%40sayanta28&style=social"></a>  •
+  <a href="http://recursiveman.blogspot.com/">Blog</a> •
+ </p>
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning - JavaScript
@@ -9,5 +16,6 @@
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I am a mad programmer.
 
-
-[//]: # (This may be the most platform independent comment)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&show_icons=true">
+</p>
