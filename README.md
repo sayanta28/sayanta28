@@ -4,7 +4,7 @@
   </a> <br>
   <img src="https://gpvc.arturio.dev/sayanta28" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=sayanta28&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/sayanta28?label=%40sayanta28&style=social"></a> •
-  <a href="http://recursiveman.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a> •
+  <a href="http://recursiveman.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
  
 # Sayanta Chowdhury 
@@ -14,17 +14,17 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=facebook&logoColor=3B5998)](https://www.facebook.com/cp.sayanta28/)
 
 
-:wave: Hi there, This is Sayanta Chowdhury.😀 I'm 23 years old, I'm a self-taught, passinate, fast-learner and energitic CS Student.
+:wave: Hi there, This is Sayanta Chowdhury. 😀 I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student.
 Currently, I am pursuing my Undergraduate Degree in CSE from Bangladesh Army International University of Science and Technology[BAIUST], Cumilla Cantonment,Bangladesh. 
-Have Strong knowledge on Data Structure and Algorithms. Currently doing thesis on Bangla NLP Field.
+Have Strong knowledge on Data Structure and Algorithms. Currently doing thesis on Bengali NLP Field.
 And I'm interested in Software Development field ; specificlly in Frontend Development. I am eager to work with new technologies. 😁
 
 
-- 📚 I’m currently studying in - Undergraduate Level 
-- 🌱 I’m currently learning - JavaScript, Ruby
-- 👯 I’m looking to collaborate on - Javascript
+- 📚 I’m currently studying in Undergraduate Level 
+- 🌱 I’m currently learning JavaScript and Ruby
+- 👯 I’m looking to collaborate on Open Source Dev Community
 - 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about - Anything 😎
+- 💬 Ask me about Anything 😎
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I am a mad programmer. 🙄
@@ -33,15 +33,15 @@ And I'm interested in Software Development field ; specificlly in Frontend Devel
 ## {...} My Stack 💻🚀
 
 ```js
-  Languages: ['C', 'C++', 'JavaScript', 'Java', 'Python'],
-  Frontend: ['Html', 'CSS'],
+  Languages: ['C', 'C++', 'JavaScript', 'Java', 'Python', 'Prolog', 'Assembly'],
+  Frontend: ['Html', 'CSS', 'XML'],
   Framework: ['JFrame', 'Android'],
-  Databases: ['MySQL', 'PostGRESQL', 'Oracle','Redis'],
-  Tools: ['VS Code', 'Android Studio', 'PyCharm', ],
-  Cloud: ['Firebase'],
+  Databases: ['MySQL', 'PostGRESQL', 'Oracle','Redis', 'NoSQL'],
+  Tools: ['VS Code', 'Android Studio', 'PyCharm', 'IntelliJ IDEA', 'CodeBlocks'],
+  Cloud Service: ['Firebase'],
   Open-Source: ['GitHub'],
-  AI-Framework:["Scikit-learn"],
-  Experimenting: ["Ruby","ReactJS"]
+  AI-Framework:['Scikit-learn'],
+  Experimenting: ['Ruby','ReactJS']
 ```
 
 <p>
