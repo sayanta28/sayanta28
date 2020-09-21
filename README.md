@@ -24,7 +24,7 @@ And I'm interested in Software Development field ; specificlly in Frontend Devel
 - 🌱 I’m currently learning JavaScript and Ruby
 - 👯 I’m looking to collaborate on Open Source Dev Community
 - 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about Anything 😎
+- 💬 Ask me about Competitive Programming, Data Structure and Algorithms, Web Dev, Tech. 😎
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I am a mad programmer. 🙄
@@ -33,17 +33,25 @@ And I'm interested in Software Development field ; specificlly in Frontend Devel
 ## {...} My Stack 💻🚀
 
 ```js
-  Languages: ['C', 'C++', 'JavaScript', 'Java', 'Python', 'Prolog', 'Assembly'],
-  Frontend: ['Html', 'CSS', 'XML'],
-  Framework: ['JFrame', 'Android'],
-  Databases: ['MySQL', 'PostGRESQL', 'Oracle','Redis', 'NoSQL'],
-  Tools: ['VS Code', 'Android Studio', 'PyCharm', 'IntelliJ IDEA', 'CodeBlocks'],
-  Cloud Service: ['Firebase'],
-  Open-Source: ['GitHub'],
-  AI-Framework:['Scikit-learn'],
-  Experimenting: ['Ruby','ReactJS']
+const myStacks = {
+  languages: ["C", "C++", "JavaScript", "Java", "Python", "Prolog", "Assembly"],
+  technologies: {
+      frontEnd: ["Html", "CSS", "XML"],
+      frameWork: ['JFrame', "Android"],
+      dataBases: ["MySQL", "PostGRESQL", "Oracle", "Redis", "NoSQL"],
+      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
+      VCS: ["Git"],
+      AI_Framework: ["Scikit-learn"],
+      MISC: ["Firebase"],
+      currentFocus: ["Ruby", "ReactJS"]
+  }
+};
 ```
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&show_icons=true">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanta28&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayanta28&theme=dracula)](https://github.com/sayanta28/github-profile-trophy)
