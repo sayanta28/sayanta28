@@ -12,12 +12,10 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sayanta-chowdhury-aa6865175/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=facebook&logoColor=3B5998)](https://www.facebook.com/cp.sayanta28/)
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height= "250px">
 
-
-:wave: Hi there, This is Sayanta Chowdhury. 😀 I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student.
-Currently, I am pursuing my Undergraduate Degree in CSE from Bangladesh Army International University of Science and Technology[BAIUST], Cumilla Cantonment,Bangladesh. 
-Have Strong knowledge on Data Structure and Algorithms. Currently doing thesis on Bengali NLP Field.
-And I'm interested in Software Development field ; specificlly in Frontend Development. I am eager to work with new technologies. 😁
+:wave: Hi there, This is Sayanta Chowdhury. 😀 
+I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student. Currently, I am pursuing my Undergraduate Degree in CSE from Bangladesh Army International University of Science and Technology[BAIUST], Cumilla Cantonment,Bangladesh. Have Strong knowledge on Data Structure and Algorithms. Currently doing thesis on Bengali NLP Field. And I'm interested in Software Development field ; specificlly in Frontend Development. I am eager to work with new technologies. 😁
 
 
 - 📚 I’m currently studying in Undergraduate Level 
@@ -28,6 +26,7 @@ And I'm interested in Software Development field ; specificlly in Frontend Devel
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I am a mad programmer. 🙄
+
 
 
 ## {...} My Stack 💻🚀
