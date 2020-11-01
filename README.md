@@ -33,7 +33,7 @@ I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS S
 
 ```js
 const myStacks = {
-  languages: ["C", "C++", "JavaScript", "Java", "Python", "Prolog", "Assembly"],
+  languages: ["C", "C++", "JavaScript", "Ruby", "Java", "Python", "Prolog", "Assembly"],
   technologies: {
       frontEnd: ["Html", "CSS", "XML"],
       frameWork: ['JFrame', "Android"],
