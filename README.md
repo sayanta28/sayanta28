@@ -7,7 +7,7 @@
   <a href="http://recursiveman.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
  
-# Sayanta Chowdhury 
+# Sayanta Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sayanta-chowdhury-aa6865175/)
