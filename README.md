@@ -48,7 +48,7 @@ const myStacks = {
 ```
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonighthttps://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanta28&layout=compact)
