@@ -5,7 +5,7 @@
 [![Facebook Follow](https://img.shields.io/badge/sayanta28-black?color=14171A&labelColor=ffffff&logo=facebook&logoColor=3B5998)](https://www.facebook.com/sayanta28)
 
 :wave: Hi there, This is Sayanta Chowdhury. 😀 
-I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student. Currently, I am pursuing my Undergraduate Degree in CSE from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment,Bangladesh. Have Strong knowledge on Data Structure and Algorithms. Currently doing thesis on Bengali NLP Field. And I'm interested in Software Development field ; specificlly in Frontend Development. I am eager to work with new technologies. 😁 
+I'm 23 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student. Currently, I am going to complete my Undergraduate Degree in CSE from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment,Bangladesh. Have good knowledge on Data Structure and Algorithms. I was done my thesis on Bengali NLP Field. Currently, I'm working in Ruby on Rails.
 
 
 - 📚 I’m currently going to complete Undergraduate Level study
@@ -18,29 +18,28 @@ I'm 22 years old, I'm a self-taught, passionate, fast-learner and energetic CS S
 - ⚡ Fun fact: I am very lazy.🙄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 
-
 ## {...} My Stack 💻🚀 
 
 ```js
 const myStacks = {
-  languages: ["C", "C++", "JavaScript", "Ruby", "Java", "Python", "Prolog", "Assembly"],
+  laguages: ['JavaScript', 'Ruby', 'C++']
   technologies: {
-      frontEnd: ["Html", "CSS", "XML"],
-      frameWork: ['JFrame', "Android"],
-      dataBases: ["MySQL", "PostGRESQL", "Oracle", "Redis", "NoSQL"],
-      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
-      VCS: ["Git"],
-      AI_Framework: ["Scikit-learn"],
-      MISC: ["Firebase"],
-      currentFocus: ["Ruby", "ReactJS", "CNN", "NLP"]
-  }
+      frontEnd: ['Html', 'CSS', 'BootStrap'],
+      frameWork: ['Ruby on Rails'],
+      dataBases: ['MySQL', 'NoSQL'],
+      tools: ['VS Code', 'RubyMine'],
+      VCS: ['Git'],
+      MISC: ['Firebase'],
+      currentFocus: ['Ruby', 'Ruby on Rails']
+  },
+  familiar_languages: ['C', 'C++', 'Java', 'Python', 'Prolog', 'Assembly'],
 };
 ```
 
-<p>
+<span>
   <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonight">
-</p>
+  
+</span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanta28&langs_count=10&&layout=compact)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayanta28&theme=dracula)](https://github.com/sayanta28/github-profile-trophy)
