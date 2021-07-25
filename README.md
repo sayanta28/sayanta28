@@ -22,7 +22,7 @@ I'm 23 years old, I'm a self-taught, passionate, fast-learner and energetic CS S
 
 ```js
 const myStacks = {
-  laguages: ['JavaScript', 'Ruby', 'C++']
+  laguages: ['JavaScript', 'Ruby', 'C++'],
   technologies: {
       frontEnd: ['Html', 'CSS', 'BootStrap'],
       frameWork: ['Ruby on Rails'],
@@ -36,10 +36,9 @@ const myStacks = {
 };
 ```
 
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonight">
-  
-</span>
 
+![contributions](https://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanta28&langs_count=10&&layout=compact)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayanta28&theme=dracula)](https://github.com/sayanta28/github-profile-trophy)
