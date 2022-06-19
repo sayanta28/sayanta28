@@ -2,16 +2,20 @@
 
 [![Gmail](https://img.shields.io/badge/sayanta28@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/sayantachowdhury-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sayantachowdhury)
-[![Facebook Follow](https://img.shields.io/badge/sayanta28-black?color=14171A&labelColor=ffffff&logo=facebook&logoColor=3B5998)](https://www.facebook.com/sayanta28)
+[![Twitter Follow](https://img.shields.io/badge/sayanta28-black?color=14171A&labelColor=ffffff&logo=twitter)](https://www.twitter.com/sayanta28)
 
-:wave: Hi there, This is Sayanta Chowdhury. 😀 
-I'm 23 years old, I'm a self-taught, passionate, fast-learner and energetic CS Student. Currently, I am going to complete my Undergraduate Degree in CSE from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment,Bangladesh. Have good knowledge on Data Structure and Algorithms. I was done my thesis on Bengali NLP Field. Currently, I'm working in Ruby on Rails.
+:wave: Hi there, This is Sayanta Chowdhury. 😀 I'm 24 years old. I'm a self-taught, passionate, fast-learner and energetic CS folk. 
+
+Currently, I am doing M.Sc. in Computer Science, @South Asian Unversity, New Delhi, India. 
+I have completed my graduation from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment, Bangladesh. 
+
+Have good knowledge on Data Structure and Algorithms. Currently, I'm working on Machine Learning Domain.
 
 
-- 📚 I’m currently going to complete Undergraduate Level study
-- 🌱 I’m currently learning JavaScript and Ruby
+- 📚 I’m currently going to complete Masters Level study
+- 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on Open Source Dev Community
-- 🤔 I’m looking for help with Ruby on Rails
+- 🤔 I’m looking for help with RoR and ML
 - 💬 Ask me about Competitive Programming, Data Structure and Algorithms, Web Dev, Tech. 😎
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/sayanta28@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
 - 😄 Pronouns:  He/Him
@@ -25,12 +29,12 @@ const myStacks = {
   laguages: ['JavaScript', 'Ruby', 'C++'],
   technologies: {
       frontEnd: ['Html', 'CSS', 'BootStrap'],
-      frameWork: ['Ruby on Rails'],
+      backend_frameWork: ['Ruby on Rails'],
       dataBases: ['MySQL', 'NoSQL'],
       tools: ['VS Code', 'RubyMine'],
       VCS: ['Git'],
       MISC: ['Firebase'],
-      currentFocus: ['Ruby', 'Ruby on Rails']
+      currentFocus: ['Machine Learning', 'Ruby on Rails']
   },
   familiar_languages: ['C', 'C++', 'Java', 'Python', 'Prolog', 'Assembly'],
 };
