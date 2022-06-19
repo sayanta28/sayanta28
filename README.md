@@ -1,4 +1,4 @@
-## Sayanta Chowdhury || সায়ন্ত চৌধুরী <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+## Sayanta Chowdhury || সায়ন্ত চৌধুরী  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" height="30px">
 
 [![Gmail](https://img.shields.io/badge/sayanta28@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/sayantachowdhury-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sayantachowdhury)
