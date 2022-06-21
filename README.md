@@ -7,6 +7,7 @@
 :wave: Hi there, This is Sayanta Chowdhury. 🙂 I'm 24 years old self-taught programmer and passionate CS learner. 
 
 Currently, I am doing M.Sc. in **Computer Science, @South Asian Unversity [[SAU](http://sau.int)]** **, New Delhi, India.** 
+
 I have completed my graduation from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment, Bangladesh. 
 
 Have good knowledge on Data Structure and Algorithms. Currently, I'm working on Machine Learning Domain.
@@ -17,7 +18,6 @@ Have good knowledge on Data Structure and Algorithms. Currently, I'm working on 
 _1. Jr. Software Engineer (Ruby on Rails), @OnuDevs Ltd._
 
 _2. Frotend Developer (Intern), @Paykhom Ltd._
-
 
 
 ### {...} My Stack 💻🚀 
