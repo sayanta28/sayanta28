@@ -4,41 +4,49 @@
 [![LinkedIn Connect](https://img.shields.io/badge/sayantachowdhury-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sayantachowdhury)
 [![Twitter Follow](https://img.shields.io/badge/sayanta28-black?color=14171A&labelColor=ffffff&logo=twitter)](https://www.twitter.com/sayanta28)
 
-:wave: Hi there, This is Sayanta Chowdhury. 😀 I'm 24 years old. I'm a self-taught, passionate, fast-learner and energetic CS folk. 
+:wave: Hi there, This is Sayanta Chowdhury. 🙂 I'm 24 years old self-taught programmer and passionate CS learner. 
 
-Currently, I am doing M.Sc. in Computer Science, @South Asian Unversity, New Delhi, India. 
+Currently, I am doing M.Sc. in **Computer Science, @South Asian Unversity [[SAU](http://sau.int)]** **, New Delhi, India.** 
 I have completed my graduation from **Bangladesh Army International University of Science and Technology [[BAIUST](http://baiust.edu.bd)]**, Cumilla Cantonment, Bangladesh. 
 
 Have good knowledge on Data Structure and Algorithms. Currently, I'm working on Machine Learning Domain.
 
 
-- 📚 I’m currently going to complete Masters Level study
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on Open Source Dev Community
-- 🤔 I’m looking for help with RoR and ML
-- 💬 Ask me about Competitive Programming, Data Structure and Algorithms, Web Dev, Tech. 😎
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/sayanta28@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
-- 😄 Pronouns:  He/Him
-- ⚡ Fun fact: I am very lazy.🙄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+### Professional Experinces:
+
+_1. Jr. Software Engineer (Ruby on Rails), @OnuDevs Ltd._
+
+_2. Frotend Developer (Intern), @Paykhom Ltd._
 
 
-## {...} My Stack 💻🚀 
+
+### {...} My Stack 💻🚀 
 
 ```js
 const myStacks = {
-  laguages: ['JavaScript', 'Ruby', 'C++'],
+  laguages: ['Ruby', 'JavaScript', 'Python'],
   technologies: {
-      frontEnd: ['Html', 'CSS', 'BootStrap'],
+      frontend: ['Html', 'CSS', 'BootStrap', 'React.Js'],
       backend_frameWork: ['Ruby on Rails'],
-      dataBases: ['MySQL', 'NoSQL'],
-      tools: ['VS Code', 'RubyMine'],
-      VCS: ['Git'],
-      MISC: ['Firebase'],
+      database: ['MySQL', 'NoSQL'],
+      ide: ['VS Code', 'RubyMine'],
+      vcs: ['Git'],
+      mics: ['Firebase'],
       currentFocus: ['Machine Learning', 'Ruby on Rails']
   },
-  familiar_languages: ['C', 'C++', 'Java', 'Python', 'Prolog', 'Assembly'],
+  familiar_languages: ['C', 'C++', 'Java', 'MatLab', 'Prolog', 'Assembly'],
 };
 ```
+
+### 📌📌 Current States: 
+- 📚 I’m currently a Post Graduate Scholar
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on open source community
+- 🤔 I’m looking for help with RoR and ML
+- 💬 Ask me about Competitive Programming, DSA, Web Engineering etc. 😎
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/sayanta28@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sayanta28@gmail.com)
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact: I am very lazy.🙄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 
 ![contributions](https://github-readme-stats.vercel.app/api?username=sayanta28&count_private=true&show_icons=true&theme=tokyonight)
