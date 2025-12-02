@@ -4,7 +4,7 @@
 - 🌱 I’m just focusing on wraping up the ML things...
 - 👯 I’m looking forward to complete this endless process  
 - 🤔 I’m just want to complete my remaining tasks... Does it endless process? 
-- 💬 Plz don't ask anything**!!!** Now _GPT Baba's_ are available! Please burn some GPU!
+- 💬 Plz don't ask anything __!!__ Now _GPT Baba's_ are available! Please burn some <ins>GPU</ins> !
 - ⚡ Fun fact: No single ML algorithm is universally superior for all problems. Also known as _No Free Lunch (NFL) theorem_. :D 
 
 ### 🎵 Now playing on Spotify 🎧
